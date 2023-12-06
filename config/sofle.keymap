@@ -80,7 +80,7 @@
             bindings = <
 &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4                 &none     &none      &none      &none     &none     &none
 &trans     &kp DEL      &trans       &kp UNDER    &kp PLUS     &kp PG_UP                    &trans    &trans     &trans     &trans    &kp N0    &trans
-&trans     &kp HOME     &kp END      &kp MINUS    &kp EQUAL    &kp PG_DN                    &kp LEFT  &kp UP     &kp DOWN   &kp RIGHT &kp K_APP &trans
+&trans     &kp HOME     &kp END      &kp MINUS    &kp EQUAL    &kp PG_DN                    &kp LEFT  &kp DOWN   &kp UP     &kp RIGHT &kp K_APP &trans
 &trans     &kp LT       &kp GT       &kp K_COPY   &kp K_PASTE  &kp SEMI     &trans  &trans  &kp K_PP  &kp K_PREV &kp K_NEXT &trans    &trans    &trans
                         &trans       &trans       &trans       &trans       &trans  &trans  &trans    &trans     &trans     &trans
             >;
